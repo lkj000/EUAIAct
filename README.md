@@ -2,6 +2,8 @@
 
 This project provides an interactive Streamlit-based chat assistant designed to answer questions about the EU AI Act. It leverages a retrieval-augmented generation (RAG) system to fetch and present relevant information from the EU AI Act documents, using OpenAI and ChromaDB for document embedding and search functionalities.
 
+![EU AI Act Chat Assistant](assets/euaiact-rag-chat.png)
+
 ## Features
 - **Interactive Chat Interface**: Users can ask questions about the EU AI Act and receive real-time answers from the assistant.
 - **Reference Retrieval**: Provides references to relevant sections of the EU AI Act document in response to user queries.
